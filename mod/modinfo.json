@@ -1,0 +1,11 @@
+{
+	"id": "alwayssick",
+	"name": "Always Sick",
+	"version": "1.0.0",
+	"hide_version": false,
+	"authors": "Coder23848",
+	"description": "Applies the effects of late-stage Hunter sickness to all slugcats at all times.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}
